@@ -1,4 +1,4 @@
-django-admin startproject pyProject
-python manage.py startapp home
-create urls.py in app
+django-admin startproject pyProject \n
+python manage.py startapp home \n
+create urls.py in app \n
 python manage.py runserver
